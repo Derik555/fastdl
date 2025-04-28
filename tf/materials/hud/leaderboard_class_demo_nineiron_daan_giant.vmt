@@ -1,8 +1,0 @@
-UnlitGeneric
-{
-	$baseTexture "hud/leaderboard_class_demo_nineiron_daan"
-	$ignorez 1
-	$no_fullbright 1
-	$translucent 1
-	%keywords "tf"
-}
